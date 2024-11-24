@@ -90,4 +90,4 @@
     };
 };
 
-#include "corne36_tpoint0_ps2.dtsi"
+#include "g8xtp_tpoint0_ps2.dtsi"
