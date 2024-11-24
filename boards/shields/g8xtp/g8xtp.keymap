@@ -29,7 +29,7 @@
                 &kp ESC	&bt BT_CLR	&out OUT_TOG  &kp F3	&kp F4	&kp F5	&kp F6	&kp C_MUTE	&kp C_VOL_DN	&kp C_VOL_UP	&kp C_BRI_DN &kp C_BRI_UP  &kp F22
                 &kp TILDE	&trans	&trans	&trans	&trans	&trans	&trans	&trans	&trans	&trans	&trans	&trans	&trans
                 &kp TAB	&trans	&trans	&trans	&trans	&trans	&trans	&trans	&trans	&trans	&kp LBRC	&kp RBRC	
-                                                                                                                       &kp K_APP
+                                                                                                                       &kp K_APPLICATION
                 &kp TAB	&trans	&trans	&trans	&trans	&trans	&trans	&trans	&trans	&trans	&kp LBKT	&kp RBKT	
                 &kp CAPS	&trans	&trans	&trans	&trans	&trans	&trans	&trans	&trans	&trans	&kp PAGE_UP	&kp RSHFT	
                 &kp LCTRL	&kp LWIN	&trans	&trans        &trans       &kp FSLH	&kp DEL	&trans	&trans	&trans
