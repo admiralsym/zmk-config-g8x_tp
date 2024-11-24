@@ -89,3 +89,5 @@
         >;
     };
 };
+
+#include "corne36_tpoint0_ps2.dtsi"
