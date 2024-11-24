@@ -1,0 +1,6 @@
+if SHIELD_G8XTP
+
+config ZMK_KEYBOARD_NAME
+    default "g8xtp"
+
+endif
